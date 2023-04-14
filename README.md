@@ -1,8 +1,6 @@
 # Hello, World! 👋 My name is Ali. 👨🏻‍💻
 
-I am a **senior frontend developer** with over three years of experience building highly interactive and responsive user interfaces and web applications using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Vue.js**, and **Nuxt.js**.
-
-I have experience with **design systems**, **responsive design**, and the **mobile-first** approach. I have worked in **agile** and **scrum** teams. I can work both independently and as a team member. I have a master’s degree in engineering. I work at Alibaba Travels, Iran’s leading travel platform with over 2 million active users.
+As a **senior frontend developer** with over three years of experience, I specialize in creating highly interactive and responsive user interfaces and web applications using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Vue.js**, and **Nuxt.js**. I have a master's degree in engineering, which gives me an in-depth understanding and technical perspective on different problems. I have experience with **design systems**, **responsive design**, and the **mobile-first** approach, and have worked in both **agile** and **scrum** teams. My ability to work **independently** and as a **team member** has been proven through my work at Alibaba Travels, Iran's leading travel platform with over 2 million active users.
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.mirmohammad.86@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mirmohammad/)
@@ -10,8 +8,8 @@ I have experience with **design systems**, **responsive design**, and the **mobi
 
 <br>
 
-- 💬 Ask me about _React_, _Vue_, _Svelte_, and other frontend technologies.
-- 💼 I’m working on web applications in _Vue_, _React_, _Next_, and _Nuxt_.
+- 💬 Ask me about **React**, **Vue**, **Svelte**, and other frontend technologies.
+- 💼 I’m working on web applications in **Vue**, **React**, **Next**, and **Nuxt**.
 - 📚 I’m currently learning and playing around with **Go** and **Rust**.
 - 👨‍🏫 I teach interns frontend technologies such as **JavaScript**, **TypeScript**, **React**, and **Vue**.
 - 👨🏻‍💻 I’m looking to collaborate on **JavaScript** and **TypeScript** projects.
