@@ -1,6 +1,6 @@
 # Hello, World! 👋 My name is Ali. 👨🏻‍💻
 
-**Senior front-end engineer** with **4+ years** of experience creating responsive UIs and web apps using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Vue.js**, and **Nuxt.js**. Have expertise in **design systems**, **responsive design**, and **mobile-first** approaches. Worked in **agile** and **scrum** environments and contributed to three different teams in Alibaba Travels, Iran's leading travel platform with 25M users, 2M active users, and 6M daily requests.
+**Front-end software engineer** with **4+ years** of experience creating responsive UIs and web apps using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Vue.js**, and **Nuxt.js**. Have expertise in **design systems**, **responsive design**, and **mobile-first** approaches. Worked in **agile** and **scrum** environments.
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.mirmohammad.86@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mirmohammad/)
