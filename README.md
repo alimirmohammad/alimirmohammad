@@ -1,6 +1,6 @@
 # Hello, World! 👋 My name is Ali. 👨🏻‍💻
 
-**Front-end software engineer** with **4+ years** of experience creating responsive UIs and web apps using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Vue.js**, and **Nuxt.js**. Have expertise in **design systems**, **responsive design**, and **mobile-first** approaches. Worked in **agile** and **scrum** environments.
+**Front-end software engineer** with **5+ years** of experience creating responsive UIs and web apps using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Vue.js**, and **Nuxt.js**. Have expertise in **design systems**, **responsive design**, and **mobile-first** approaches. Worked in **agile** and **scrum** environments.
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.mirmohammad.86@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mirmohammad/)
@@ -12,8 +12,6 @@
 - 💼 I’m working on web applications in **Vue**, **React**, **Next**, and **Nuxt**.
 - 📚 I’m currently learning and playing around with **Go** and **Rust**.
 - 👨‍🏫 I teach interns frontend technologies such as **JavaScript**, **TypeScript**, **React**, and **Vue**.
-- 👨🏻‍💻 I’m looking to collaborate on **JavaScript** and **TypeScript** projects.
-- 📫 You can reach me at: ali.mirmohammad.86@gmail.com
 
 #### 💻 Languages
 
@@ -78,5 +76,5 @@
 
 #### 💻 Operating Systems
 
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
