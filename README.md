@@ -1,6 +1,6 @@
 # Hello, World! 👋 My name is Ali. 👨🏻‍💻
 
-**Front-end software engineer** with **5+ years** of experience creating responsive UIs and web apps using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Vue.js**, and **Nuxt.js**. Have expertise in **design systems**, **responsive design**, and **mobile-first** approaches. Worked in **agile** and **scrum** environments.
+**Front-end software engineer** with **7 years** of experience creating responsive UIs and web apps using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Vue.js**, and **Nuxt.js**. Have expertise in **design systems**, **responsive design**, and **mobile-first** approaches. Worked in **agile** and **scrum** environments.
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.mirmohammad.86@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mirmohammad/)
